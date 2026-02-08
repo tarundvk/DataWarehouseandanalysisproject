@@ -6,9 +6,6 @@ Dimensions Exploration
 Purpose:
     - To explore the structure of dimension tables.
 	
-SQL Functions Used:
-    - DISTINCT
-    - ORDER BY
 ===============================================================================
 */
 
